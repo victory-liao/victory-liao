@@ -6,8 +6,6 @@
 - 📝博客：[Hexo💬](https://victory-liao.github.io/)
 - 💌 微信：victory-liao(请备注来意！)
 
-<img src="https://github.com/victory-liao/victory-liao/blob/main/sunset.jpg" height="300px" width="500px" />
-
 ## 我的技能(my skills)   
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
