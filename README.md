@@ -34,7 +34,6 @@
 <a href="https://github.com/victory-liao"><img src="https://img.shields.io/badge/GitHub-victoryliao-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/415312635"><img src="https://img.shields.io/badge/哔哩哔哩-victoryliao-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-1835604278-green?logo=tencentqq" />
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=victory-liao&abbreviated=true&color=yellow" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
