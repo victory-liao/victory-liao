@@ -41,7 +41,7 @@
 -->
 
 <!-- streak stats -->
-<img align="center" src="https://streak-stats.demolab.com?user=victory-liao&date_format=%5BY.%5Dn.j" />
+<img height="130px" align="center" src="https://streak-stats.demolab.com?user=victory-liao&date_format=%5BY.%5Dn.j" />
 <br/>
 
 ## 贡献图
