@@ -12,8 +12,8 @@
 - 📝博客：[Hexo💬](https://victory-liao.github.io/)
 - 💌 微信：victory-liao
 
+<!--
 ## 我的技能(my skills)   
-
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
@@ -21,6 +21,10 @@
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
+-->
+
+## 技术栈(technology stack)
+<img align="center" src="https://skillicons.dev/icons?i=py,java,c,cpp,html,css,js,md&theme=light" />
 
 ## 今年汇总 ✨
 
@@ -32,9 +36,6 @@
 ## 交个朋友 👬🏻
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-## 技术栈(technology stack)
-<img align="center" src="https://skillicons.dev/icons?i=py,java,c,cpp,html,css,js,md&theme=light" />
 
 <!--shields-->
 <a href="https://github.com/victory-liao"><img src="https://img.shields.io/badge/GitHub-victoryliao-blue?logo=github" /></a>
