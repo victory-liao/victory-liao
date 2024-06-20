@@ -31,8 +31,8 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<a href="https://github.com/victory-liao"><img src="https://img.shields.io/badge/GitHub-victory-liao-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/415312635"><img src="https://img.shields.io/badge/哔哩哔哩-victory-liao-pink?logo=bilibili" /></a>
+<a href="https://github.com/victory-liao"><img src="https://img.shields.io/badge/GitHub-victoryliao-blue?logo=github" /></a>
+<a href="https://space.bilibili.com/415312635"><img src="https://img.shields.io/badge/哔哩哔哩-victoryliao-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-1835604278-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=victory-liao&abbreviated=true&color=yellow" />
