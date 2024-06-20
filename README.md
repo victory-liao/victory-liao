@@ -5,6 +5,7 @@
 - 🏬home: Xi'an
 - 📝博客：[Hexo💬](https://victory-liao.github.io/)
 - 💌 微信：victory-liao(请备注来意！)
+<img src="https://github.com/victory-liao/victory-liao/blob/main/sunset.jpg" />
 
 ## 我的技能(my skills)   
 
