@@ -41,8 +41,8 @@
 -->
 
 <!-- streak stats -->
-<img height="130px" align="center" src="https://streak-stats.demolab.com?user=victory-liao&date_format=%5BY.%5Dn.j" />
-<br/>
+<img align="center" src="https://streak-stats.demolab.com?user=victory-liao&date_format=%5BY.%5Dn.j" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=victory-liao&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 ## 贡献图
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=victory-liao&theme=github-compact&hide_border=true&area=true" />
