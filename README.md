@@ -5,13 +5,15 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
-
+<p align="center">
 ## 个人介绍(self introduction)
 - 🌹 I am a developer with one year of practice 🐵.
 - 🏫毕业院校：SNNU
 - 🏬home: Xi'an
 - 📝博客：[Hexo💬](https://victory-liao.github.io/)
 - 💌 微信：victory-liao
+</p>
+
 
 ## 我的技能(my skills)   
 
