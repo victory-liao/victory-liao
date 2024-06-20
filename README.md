@@ -4,7 +4,7 @@
 - 🏫毕业院校：SNNU
 - 🏬home: Xi'an
 - 📝博客：[Hexo💬](https://victory-liao.github.io/)
-- 💌 微信：victory liao 请备注来意！
+- 💌 微信：victory-liao(请备注来意！)
 
 ## 我的技能(my skills)   
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
